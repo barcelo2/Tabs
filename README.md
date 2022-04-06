@@ -2,10 +2,10 @@
 
 ## Project description
 Open different tabs by targeting the container and adding or removing class of 'active' from buttons and articles. Methods used:
--Target the container
--Click Event Listener
--Add and remove a class
--Use dataset
+- Target the container
+- Click Event Listener
+- Add and remove a class
+- Use dataset
 
 
 
@@ -16,7 +16,7 @@ Open different tabs by targeting the container and adding or removing class of '
 
 ## Built With
 
--Javascript
+- Javascript
 - HTML 
 - CSS
 
