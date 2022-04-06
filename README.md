@@ -1,12 +1,15 @@
 # Tabs
 
 ## Project description
-Open different tabs by targeting the container and adding or removing class of 'active' from buttons and articles:
+Open different tabs by targeting the container and adding or removing class of 'active' from buttons and articles. Methods used:
+-Target the container
+-Click Event Listener
+-Add and remove a class
+-Use dataset
 
 
 
-
-![Tabs](https://github.com/barcelo2/Scroll-Effect/blob/main/scroll%20effect/Screenshot%202022-03-31%20at%2023.09.39.png)
+![Tabs](https://github.com/barcelo2/Tabs/blob/main/tabs/Screenshot%202022-04-06%20at%2016.44.29.png)
 
 
 
